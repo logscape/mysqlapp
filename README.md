@@ -33,6 +33,11 @@ The home page gives you an estate wide view of your servers performance and heal
 
 ![](docs/images/mysql_queries.png) 
 
+## Innodb Stats 
+
+![](docs/images/mysql_innodb.png) 
+
+
 ## Network Throughput 
 
 ![](docs/images/mysql_network.png) 
