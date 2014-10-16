@@ -27,13 +27,13 @@ The MySQLApp monitors disk,network and system health.
 
 The home page gives you an estate wide view of your servers performance and health. Identify quickly when your servers are struggling under load. 
 
-![](docs/images/mysql_home_0.png) 
+![](docs/images/mysql_home.png) 
 
 ## Queries Activity  
 
-![](docs/images/mysql_queries_0.png) 
+![](docs/images/mysql_queries.png) 
 
 ## Network Throughput 
 
-![](docs/images/mysql_network_0.png) 
+![](docs/images/mysql_network.png) 
 
